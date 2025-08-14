@@ -11,3 +11,7 @@ Handles connection errors gracefully, stopping the scan if the website is unreac
 Skips empty lines and continues scanning even if some requests fail.
 
 Useful for penetration testing, security assessments, and bug bounty programs to identify publicly accessible paths.
+
+Example of usage:
+
+<img width="881" height="310" alt="Screenshot 2025-08-14 172954" src="https://github.com/user-attachments/assets/2dfd2db0-ae8c-4281-9752-2993e2abd0f4" />
