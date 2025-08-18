@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import requests
 
 target_url = input('Enter the target\'s URL (Ex. https://example.com/): ').strip()
